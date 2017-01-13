@@ -1,0 +1,9 @@
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\bin\Debug\Prog3.exe.config
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\obj\Debug\Prog3.csprojResolveAssemblyReference.cache
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\obj\Debug\Prog3.prog3.resources
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\obj\Debug\Prog3.Properties.Resources.resources
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\obj\Debug\Prog3.csproj.GenerateResource.Cache
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\bin\Debug\Prog3.exe
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\bin\Debug\Prog3.pdb
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\obj\Debug\Prog3.exe
+B:\UofL\Spr15\CIS199\Prog3\Prog3\Prog3\obj\Debug\Prog3.pdb
